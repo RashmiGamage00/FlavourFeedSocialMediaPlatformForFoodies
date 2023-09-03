@@ -1,5 +1,4 @@
 # FlavourFeedSocialMediaPlatformForFoodies
-#### Brief Description of your Solution - 
 
 The task assigned to our project team (Team 84) is to create a social media network specifically for foodies to share their eating experiences. To ensure seamless interaction with the mobile app being developed by a different company, our objective is to design a web-application and REST API for the platform. User profiles, post creation and editing, reacting to and commenting on posts, sharing posts, and OAuth-based authentication are some of the platform's key features. 
  
